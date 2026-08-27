@@ -31,3 +31,4 @@ Notes and usage details for go-anthropic.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
